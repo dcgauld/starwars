@@ -1,4 +1,3 @@
-star-wars-quotes
-================
+# starwars.js
 
-A website displaying a different Star Wars quote each day. Aims to bring joy and prosperity to all who visit. May the force be with you.
+starwars.js is a simple Node.js module that allows you to insert a random Star Wars quote into your site.
