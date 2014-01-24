@@ -1,0 +1,1 @@
+starwars = module.exports = require("./lib/starwars");
