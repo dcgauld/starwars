@@ -1,0 +1,31 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Insert a random Star Wars quote into your Node.js powered site, or view one through the CLI.",
+  "homepage": "http://github.com/dcgauld/starwars.js",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dcgauld/starwars.js.git"
+  },
+  "bin": {
+    "starwars": "./lib/cli.js"
+  },
+  "keywords": [
+    "star",
+    "wars",
+    "starwars"
+  ],
+  "author": {
+    "name": "David Gauld",
+    "email": "dcgauld@gmail.com",
+    "web": "http://dcgauld.com"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/dcgauld/starwars.js/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/dcgauld/starwars.js/issues"
+  }
+}
