@@ -1,1 +1,1 @@
-starwars = module.exports = require("./lib/starwars");
+module.exports = require("./lib/starwars");
