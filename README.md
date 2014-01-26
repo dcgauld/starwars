@@ -26,4 +26,4 @@ starwars.js can also be used within the command line. Simply install globally th
 
 ...and then typing `starwars` into your console. A random quote will then be displayed on the screen (especially helpful if you're having a bad day and need to read some inspirational text).
 
-You can also type `starwars -a` or `starwars -all` into your console to display all of the available quotes.
+You can also type `starwars -a` into your console to display all of the available quotes.
