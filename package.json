@@ -1,7 +1,7 @@
 {
   "name": "starwars",
   "version": "1.0.0",
-  "description": "Insert a random Star Wars quote into your Node.js powered site, or view one through the CLI.",
+  "description": "A simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.",
   "homepage": "https://github.com/dcgauld/starwars.js",
   "main": "./index.js",
   "repository": {
