@@ -2,8 +2,6 @@
 
 starwars.js is a simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.
 
-[![NPM](https://nodei.co/npm/starwars.png?compact=true)](https://nodei.co/npm/starwars/)
-
 ## Usage
 
 Install starwars.js by either forking this repository or installing through [npm](http://npmjs.org/) (recommended).
