@@ -15,8 +15,11 @@ Simply install through npm...
 ...and require the module from your Node.js application. You're good to go! Either insert a single (random) quote, or retrieve a list containing all of the available quotes.
 
 ```javascript
-console.log(require('starwars')); // "No. I am your Father."
-console.log(require('starwars').quotes); // Array of quotes
+var starwars = require('starwars');
+
+console.log(starwars()); // "No. I am your Father."
+console.log(starwars()); // "Great shot kid, that was one in a million."
+console.log(starwars.quotes); // ["No. I am your Father.", "Great shot kid, that was one in a million.",...]
 ```
 
 ### Command Line
