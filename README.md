@@ -4,11 +4,7 @@ starwars.js is a simple Node.js module that allows you to insert a random Star W
 
 ## Usage
 
-Install starwars.js by either forking this repository or installing through [npm](http://npmjs.org/) (recommended).
-
-### JavaScript
-
-Simply install through npm...
+Simply install through npm by running...
 
     npm install starwars
 
@@ -24,7 +20,7 @@ console.log(starwars.quotes); // ["No. I am your Father.", "Great shot kid, that
 
 ### Command Line
 
-You can also install the module globally by running...
+starwars.js can also be used within the command line. Simply install globally through npm by running...
 
     npm install starwars -g
 
