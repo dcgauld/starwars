@@ -1,6 +1,6 @@
-# starwars.js
+# starwars
 
-starwars.js is a simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.
+starwars is a simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.
 
 ## Usage
 
@@ -20,7 +20,7 @@ console.log(starwars.quotes); // ["No. I am your Father.", "Great shot kid, that
 
 ### Command Line
 
-starwars.js can also be used within the command line. Simply install globally through npm by running...
+starwars can also be used within the command line. Simply install globally through npm by running...
 
     npm install starwars -g
 
