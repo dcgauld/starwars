@@ -21,10 +21,6 @@
     "email": "dcgauld@gmail.com",
     "web": "http://dcgauld.com"
   },
-  "licenses": {
-    "type": "MIT",
-    "url": "https://raw.github.com/dcgauld/starwars/master/LICENSE"
-  },
   "bugs": {
     "url": "https://github.com/dcgauld/starwars/issues"
   }
